@@ -51,3 +51,8 @@
       border: 1px solid #ccc;
     }
   }
+
+  body {
+    background-image: url('./images/city.png');
+    background-size:cover;
+  }
